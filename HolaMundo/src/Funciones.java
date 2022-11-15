@@ -23,7 +23,14 @@ public class Funciones {
         return 4 * Math.PI * Math.pow(r, 2);
     };
 
+    /**
+     * Función que calcula el volumen de una esfera
+     * 
+     * @param r
+     * @return el resultado de la formula para calcular el volumen
+     * @version 1.0
+     */
     public static double sphereVolumen(double r) {
         return (4 / 3) * Math.PI * Math.pow(r, 3);
-    }; 
+    };
 }
