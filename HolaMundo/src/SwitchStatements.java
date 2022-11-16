@@ -8,7 +8,7 @@ public class SwitchStatements {
                 System.out.println("Seleccionaste Light Mode");
                 break;
             case "Night": // Ambar
-                System.osut.println("Seleccionaste Night Mode");
+                System.out.println("Seleccionaste Night Mode");
                 break;
             case "Blue Dark":
                 System.out.println("Seleccionaste Blue Dark Mode");
