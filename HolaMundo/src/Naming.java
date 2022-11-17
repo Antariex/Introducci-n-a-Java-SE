@@ -6,7 +6,7 @@ public class Naming {
         System.out.println(celphone);
         System.out.println(celPhone);
 
-        String $countryName = "Spain";
+        /*String $countryName = "Spain";
         String _backgroundColor = "Green";
 
         String currency$ = "MXN";
@@ -19,5 +19,5 @@ public class Naming {
         // Lower Camel Case
         String fullName = "Irene Anahi Salgado Díaz de la Vega";
         int sizeInCentimeters = 26;
-    }
+    */}
 }
